@@ -33,7 +33,7 @@ pip install opencv-python pygame
 ```
 Run The Game 
 ```bash
-python adv_dino.py
+python main.py
 ```
 
 
